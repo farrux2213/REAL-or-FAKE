@@ -28,6 +28,7 @@ textarea {
   resize: vertical;
   margin-bottom: 25px;
   transition: border-color 0.3s;
+  box-sizing: border-box; /* MUAMMONI HAL QILADIGAN QATOR */
 }
 
 textarea:focus {
